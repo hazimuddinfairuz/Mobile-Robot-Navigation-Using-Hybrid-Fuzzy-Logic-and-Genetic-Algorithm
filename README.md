@@ -63,6 +63,4 @@ The following Python libraries were used:
 - **Pygame** – real-time 2D simulation and animation  
 - **scikit-fuzzy** – implementation of fuzzy logic systems  
 
----
 
-## 📂 Repository Structure
